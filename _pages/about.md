@@ -15,5 +15,5 @@ I'm a Senior Business Analyst Consultant working at the moment for [ThoughtWorks
  
  At the moment I consider myself a Generalist - BA, PO, PM,... whatever abbreviation you want to use as long as it relates to people and solving their problems with meaningful products.
  
- Outside of work I enjoy reading, listening to podcasts and every single minute with by child. In addition, 
+ Outside of work I enjoy reading, listening to podcasts and every single minute with my child. In addition, 
  I'm always looking for new challenges like starting this blog and getting out of my comfort zone.
