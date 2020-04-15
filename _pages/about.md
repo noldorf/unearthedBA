@@ -6,6 +6,8 @@ title: About
 
 ### Hello, my name is Nadine Oldorf!
 
+<img class="profile-pic" src="../images/Profilbild.jpg" />
+     
 I'm a Senior Business Analyst Consultant working at the moment for [ThoughtWorks](https://www.thoughtworks.com/) in Hamburg/Germany and I'm passionate about solving problems, creating products with our clients and establishing an inclusive, open and honest work atmosphere.
  
  But let's start at the beginning. I studied physics - my favorite subject since 7th grade. After my PhD I wanted to take on a new adventure and I became a Graduate Quality Analyst (QA) at ThoughtWorks. Joining a very different world of modern software development was quite a challenge. Despite having to learn so much about this field (and how to be a QA), I grew rapidly. Thanks to joining a great team, I got to know amazing people who mentored, supported, and encouraged me.
