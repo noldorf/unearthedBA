@@ -305,10 +305,10 @@ p > img {
 }
 
 .site-name {
-  margin: -68px 0 0 120px;
+  // margin: -68px 0 0 120px;
   color: $darkGray;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 350;
   font-size: 28px;
   letter-spacing: 1px;
   text-align: left;
@@ -320,12 +320,14 @@ p > img {
 }
 
 .site-description {
-  margin: -5px 0 0 120px;
+  //margin: -5px 0 0 120px;
+  margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
 
   @include mobile {
     margin: 3px 0;
+    text-align: center;
   }
 }
 
