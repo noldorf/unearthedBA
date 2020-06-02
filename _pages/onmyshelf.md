@@ -16,6 +16,8 @@ Some people call this book the "bible" if you are starting as a Business Analyst
 
 [Buy this book](https://amzn.to/2BKeVqS)
 
+---
+
 ## Sprint - How to Solve Big Problems and Test new Ideas in just 5 Days
 ###### by Jake Knapp, John Zeratsky & Braden Kowitz
 Sprint is a quick and easy read. For me it was pure inspiration and I'm looking forward to actually try out this technique. The whole process of finding the most important problem you should investigate as a company, creating ideas how to solve the problem and how you can quickly test them is described on a day-to-day basis. It provides a step by step guide with detailed explanations.
