@@ -13,7 +13,7 @@ layout: default
       </div>
       <div class="post-tags">
         {% for category in post.categories %}
-        <a>{{category}}</a>
+        <a name="Category {{category}}">{{category}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}
       </div>
