@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Top 3 learnings from 5 Years at ThoughtWorks
-categories: [Reflection, Learnings]
+categories: [Reflection, Personal Growth]
 <> last_modified_at: 2020-03-03
 date: 2020-06-06
 ---
