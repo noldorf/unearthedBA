@@ -6,9 +6,9 @@ categories: [Conversations, Opinions]
 date: 2020-07-02
 ---
 
-*This is the second part of the series “How to prepare for a discussion”. The first part about tips I have learnt over the past years on how to prepare for a discussion can be found here. In this second part I want to talk about rhetorical distractions and how to react to them.*
+*This is the second part of the series “How to prepare for a discussion”. The first part about tips I have learnt over the past years on how to prepare for a discussion can be found [here](https://www.unearthedba.com/discussionpart1/). In this second part I want to talk about rhetorical distractions and how to react to them.*
 
-Have you been in a conversation and after a while you noticed the topic moved to complete unwanted direction? What could have happened? It could be that you or the other person used a rhetorical distraction - unconsciously or even intentionally. There are a lot of rhetorical distraction and it is a good practice to notice some of them so that you are not fooled by them. I want to talk about two distraction that are often used: the straw man fallacy and whataboutism.
+Have you been in a conversation and after a while you noticed the topic moved to an unwanted direction? What could have happened? It could be that you or the other person used a rhetorical distraction - unconsciously or even intentionally. There are a lot of rhetorical distraction and it is a good practice to notice some of them so that you are not fooled by them. I want to talk about two distraction that are often used: the straw man fallacy and whataboutism.
 
 ### Straw Man Fallacy 
 The straw man fallacy describes the rejection of an (intentionally) misinterpreted argument. As a result both parties are in the middle of a discussion which one person didn’t want to have in the first place. But because we often react spontaneously in a conversational situational we automatically respond to the twisted statement of our opponent. 
@@ -36,7 +36,7 @@ They all have in common to create some kind of twisted version of an opponent’
 * **ignoring:** Keep going to advocating your original version without reacting to the twisted version
 * **accepting:** Start defending the twisted version of your statement instead of your original one. But keep in mind the longer you go down this path the harder it gets to call out the straw man later.
 
-Finally let’s assume the straw man wasn’t placed intentionally but unconsciously. This is happening a lot, because we do not listen carefully. Often we are just waiting for the right keyword we are expecting from the other person to react on. In summary we all need to take care to be active listeners (see also the first part) and don’t place a straw man unwanted.
+Finally let’s assume the straw man wasn’t placed intentionally but unconsciously. This is happening a lot, because we do not listen carefully. Often we are just waiting for the right keyword we are expecting from the other person to react on. In summary we all need to take care to be active listeners (see also the [first part](https://www.unearthedba.com/discussionpart1/) and don’t place a straw man unwanted.
 
 ### Whataboutism
 I think whataboutism is the best known rhetorical distraction of all. The strategy is very simple. One tries to relativise one person’s statement by presenting a new statement which leads away from the original one. The original topic gets lost as a result. An example is the Black Lives Matter vs All Lives Matter movement. Of course all lives matter, but this movement neglects the specific challenges people of colour face every day. 
