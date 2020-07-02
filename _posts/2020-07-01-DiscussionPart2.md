@@ -8,7 +8,7 @@ date: 2020-07-02
 
 *This is the second part of the series “How to prepare for a discussion”. The first part about tips I have learnt over the past years on how to prepare for a discussion can be found [here](https://www.unearthedba.com/discussionpart1/). In this second part I want to talk about rhetorical distractions and how to react to them.*
 
-Have you been in a conversation and after a while you noticed the topic moved to an unwanted direction? What could have happened? It could be that you or the other person used a rhetorical distraction - unconsciously or even intentionally. There are a lot of rhetorical distraction and it is a good practice to notice some of them so that you are not fooled by them. I want to talk about two distraction that are often used: the straw man fallacy and whataboutism.
+Have you been in a conversation and after a while you noticed the topic moved went in a completely unwanted direction? What could have happened? It could be that you or the other person used a rhetorical distraction - unconsciously or even intentionally. There are a lot of rhetorical distraction and it is a good practice to notice some of them so that you are not fooled by them. I want to talk about two distraction that are often used: the straw man fallacy and whataboutism.
 
 ### Straw Man Fallacy 
 The straw man fallacy describes the rejection of an (intentionally) misinterpreted argument. As a result both parties are in the middle of a discussion which one person didn’t want to have in the first place. But because we often react spontaneously in a conversational situational we automatically respond to the twisted statement of our opponent. 
