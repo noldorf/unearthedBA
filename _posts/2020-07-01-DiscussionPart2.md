@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can I prepare for a discussion? (Part 2)
+title: How can I prepare for a discussion? (Part 2) - Rhetorical Distraction
 categories: [Conversations, Opinions]
 <> last_modified_at: 2020-03-03
 date: 2020-07-02
