@@ -1,0 +1,123 @@
+.post {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  min-height: 11rem;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  -webkit-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+  box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+
+  .post-thumbnail {
+    width: 40%;
+  }
+
+  .post-content {
+    width: 60%;
+    padding-left: 10px;
+
+  }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+  .posts{
+    margin-bottom: 20px;
+  }
+  .post {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0.9% 1.5%;
+    flex-direction: column;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1.5rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    min-height: 11rem;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+    box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+
+    .post-thumbnail {
+      width: 40%;
+    }
+
+    .post-content {
+      width: 60%;
+      padding-left: 10px;
+    }
+  }
+}
+
+.post_date{
+  color: #939aa1;
+  font-size: 14px;
+}
+
+.post-tags {
+  font-size: 14px;
+  padding: 2px 13px;
+  border: none;
+  background-color: #567be4;
+  border-radius: 50px;
+  color: #fff;
+  cursor: default;
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+  .post {
+    width: 95%;
+    max-width: 100%;
+    margin: 2%;
+    flex-direction: column;
+
+    .post-thumbnail {
+      width: 100%;
+    }
+
+    .post-content {
+      width: 100%;
+      .post-title {
+        margin: 0 0 5px;
+        a {
+          font-size: 21px;
+        }
+      }
+    }
+  }
+}

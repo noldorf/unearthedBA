@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
     <article class="post">
       {% if post.image %}
-        <img class="article-pic" src="{{ post.image }}" />
+        <img class="post-thumbnail" src="{{ post.image }}" />
       {% endif %}
       <div class="post-content">
         <a href="{{ site.baseurl }}{{ post.url }}">

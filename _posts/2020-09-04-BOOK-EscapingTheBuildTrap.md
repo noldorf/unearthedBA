@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Escaping the Build Trap <br> by Melissa Perry
-categories: [On my Shelf, Book Recommendation, Product]
+categories: [On my Shelf, Product]
 <> last_modified_at: 2020-03-03
 date: 2020-09-04
 image: ../images/books_quotes/20200902_131549.jpg

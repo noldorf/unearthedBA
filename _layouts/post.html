@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<article class="post detailed">
+<article class="post-site">
+  <div>
   {% if page.image %}
   <div class="article-pic-box">
     <img class="article-pic" src="{{ page.image }}" />
@@ -12,22 +13,7 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div>
-
-    <p class="author_title">{{ page.date | date: "%B %e, %Y" }}</p>
-    {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
-    {% endif %}
-    <div class="post-tags">
-      {% if post %}
-        {% assign categories = post.categories %}
-      {% else %}
-        {% assign categories = page.categories %}
-      {% endif %}
-      {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
-    </div>
+    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a></p>
   </div>
     
   <div class="entry">
@@ -35,12 +21,30 @@ layout: default
   </div>
 
   <div>
-    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a></p>
+
+    <p class="post_date">{{ page.date | date: "%B %e, %Y" }}</p>
+    {% if page.last_modified_at %}
+    <p class="post_date" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
+    {% endif %}
+
+    {% if post %}
+    {% assign categories = post.categories %}
+    {% else %}
+    {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    <a class="post-tags" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+
   </div>
+
+
 
   <!--<div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>-->
 
   {% include disqus.html %}
+  </div>
 </article>

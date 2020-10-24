@@ -17,9 +17,9 @@ I love to read. I think it is the best way to learn new things, broaden your per
             <article class="archive-item">
             <a href="{{ site.baseurl }}{{ post.url }}"> 
             {% if post.title and post.title != "" %}<h2>{{post.title}}</h2>{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
-            <div class="post-tags">
+            <div>
                     {% for category in post.categories %}
-                    <a name="Category {{category}}">{{category}}</a>
+                    <a class="post-tags" name="Category {{category}}">{{category}}</a>
                     {% unless forloop.last %}&nbsp;{% endunless %}
                     {% endfor %}
                   </div>
