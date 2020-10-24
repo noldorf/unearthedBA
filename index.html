@@ -6,28 +6,30 @@ layout: default
   {% for post in paginator.posts %}
     <article class="post">
       {% if post.image %}
-      <div class="article-pic-box">
         <img class="article-pic" src="{{ post.image }}" />
-      </div>
       {% endif %}
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-      </a>
-      <div>
-        <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-      </div>
-      <div class="post-tags">
-        {% for category in post.categories %}
-        <a name="Category {{category}}">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-        {% endfor %}
-      </div>
+      <div class="post-content">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <h1>{{ post.title }}</h1>
+        </a>
+        <div class="entry">
+          {{ post.content | strip_html | truncatewords: 15 }}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        </div>
+        <div>
+          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+          {% for category in post.categories %}
+          <a class="post-tags" name="Category {{category}}">{{category}}</a>
+          {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        </div>
+
+
+
+
+      </div>
     </article>
   {% endfor %}
 

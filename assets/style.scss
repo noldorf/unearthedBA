@@ -135,6 +135,10 @@ table tr td :last-child {
     line-height: 0.75em;
 }*/
 
+.entry {
+  margin-bottom: 0px;
+}
+
 #search-container {
   text-align: center;
 }
@@ -283,13 +287,13 @@ p > img {
   max-width: 30%;
 }
 
-.article-pic {
-  max-width: 55%;
-}
-
-.article-pic-box {
-  text-align: center;
-}
+//.article-pic {
+//  max-width: 55%;
+//}
+//
+//.article-pic-box {
+//  text-align: center;
+//}
 
 .site-info {
   float: left;
@@ -358,8 +362,48 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  min-height: 11rem;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  -webkit-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+  box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+ // padding-bottom: 2em;
+ // border-bottom: 1px solid $lightGray;
+}
+
+.post > .article-pic {
+  width: 40%;
+  height:40%;
+  max-width: 100%;
+  min-height: 11rem;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.post .post-content {
+  padding: 1rem;
+  width: 60%;
 }
 
 .posts > .post:last-child {
@@ -471,8 +515,9 @@ body:after {
 }
 
 .post_date{
-  text-align: center;
   color: #939aa1;
+  font-size: 14px;
+  margin-bottom: 0px;
 }
 
 .cd-container a {
@@ -693,11 +738,6 @@ Modules - reusable parts of our design
 }
 
 .post-tags {
-  text-align: center;
-  line-height: 35px;
-}
-
-.post-tags a {
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;

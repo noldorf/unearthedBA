@@ -89,6 +89,8 @@ include: ['_pages']
 paginate: 6
 paginate_path: /page:num/
 
+excerpt_separator: <!--more-->
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
