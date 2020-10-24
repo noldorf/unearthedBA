@@ -3,9 +3,16 @@ layout: default
 ---
 
 <article class="post detailed">
+  {% if page.image %}
+  <div class="article-pic-box">
+    <img class="article-pic" src="{{ page.image }}" />
+  </div>
+  {% endif %}
+
   <h1>{{ page.title }}</h1>
 
   <div>
+
     <p class="author_title">{{ page.date | date: "%B %e, %Y" }}</p>
     {% if page.last_modified_at %}
     <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>

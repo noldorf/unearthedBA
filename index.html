@@ -5,6 +5,11 @@ layout: default
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
+      {% if post.image %}
+      <div class="article-pic-box">
+        <img class="article-pic" src="{{ post.image }}" />
+      </div>
+      {% endif %}
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
       </a>
