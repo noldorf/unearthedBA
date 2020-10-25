@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Inspired <br> by Marty Cagan
-categories: [On my Shelf, Book Recommendation, Product]
+categories: [On my Shelf, Product]
 <> last_modified_at: 2020-03-03
 date: 2020-03-01
+image: ../images/default.jpg
 ---
 
 The title delivers what it promises. Many topic are discussed, how successful companies create and release products to their customer.

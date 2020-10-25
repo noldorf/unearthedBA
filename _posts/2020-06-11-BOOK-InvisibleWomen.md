@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Invisible Women - Exposing Data Bias in a World Designed for Men <br> by Caroline Criado Perez 
-categories: [On my Shelf, Book Recommendation, Gender]
+title: Invisible Women <br> by Caroline Criado Perez 
+categories: [On my Shelf, Gender]
 <> last_modified_at: 2020-03-03
 date: 2020-03-01
+image: ../images/default.jpg
 ---
 
 This book is eye-opening. Especially as a Product Manager if you want to decide based on data which feature should be implement next this should be a must read just to raise awareness.

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: How can I prepare for a discussion? (Part 1)
-categories: [Conversations, Opinions]
+categories: [Communication, Personal Growth]
 <> last_modified_at: 2020-03-03
 date: 2020-06-22
+image: ../images/default.jpg
 ---
 Do you know that feeling when someone says something controversial and you don't know what to answer? Your head is empty. Everything goes on alert. What can you do now? Should you change the subject quickly? Or maybe distract them? Should you just smile and nod? Or should you try to get into a discussion? 
 Whenever I chose the latter, I felt overwhelmed. With my voice turning shaky not only I did not feel my strongest self for an objective conversation but I did not sound neutral or convincing either.

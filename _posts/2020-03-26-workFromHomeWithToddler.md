@@ -4,6 +4,7 @@ title: Between building blocks, cuddly toys and a laptop... Working from home wi
 categories: [Work From Home]
 <> last_modified_at: 2020-03-03
 date: 2020-03-02
+image: ../images/articles/buildingblocks.jpg
 ---
 
 

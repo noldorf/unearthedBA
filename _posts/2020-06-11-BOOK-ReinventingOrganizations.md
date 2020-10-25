@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Reinventing Organizations - An Illustrated Invitation to Join the Conversation on Next-Stage Organizations <br> by Frederic Laloux
-categories: [On my Shelf, Book Recommendation, Change]
+title: Reinventing Organizations <br> by Frederic Laloux
+categories: [On my Shelf, Change]
 <> last_modified_at: 2020-03-03
 date: 2020-03-01
+image: ../images/default.jpg
 ---
 
 If you are interested in organisational change, transformation process or want to get more insights on the topic  New Work, this is your book. I especially liked the illustrated version, because the effect of the statements is further enhanced by the pictures. It explains nicely how organisational change also happens naturally and what you as employee could do. For me as a consultant it helped me get fresh ideas how a company could manage itself.

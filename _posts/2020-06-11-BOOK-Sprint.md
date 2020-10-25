@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Sprint - How to Solve Big Problems and Test new Ideas in just 5 Days <br> by Jake Knapp, John Zeratsky & Braden Kowitz
+title: Sprint <br> by Jake Knapp, John Zeratsky & Braden Kowitz
 categories: [On my Shelf, Book Recommendation, Product]
 <> last_modified_at: 2020-03-03
 date: 2020-03-01
+image: ../images/default.jpg
 ---
 
 Sprint is a quick and easy read. For me it was pure inspiration and I'm looking forward to actually try out this technique. The whole process of finding the most important problem you should investigate as a company, creating ideas how to solve the problem and how you can quickly test them is described on a day-to-day basis. It provides a step by step guide with detailed explanations.
