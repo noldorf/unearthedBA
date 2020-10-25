@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sprint <br> by Jake Knapp, John Zeratsky & Braden Kowitz
-categories: [On my Shelf, Book Recommendation, Product]
+categories: [On my Shelf, Product]
 <> last_modified_at: 2020-03-03
 date: 2020-03-01
 image: ../images/default.jpg
