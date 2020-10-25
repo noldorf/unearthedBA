@@ -4,7 +4,7 @@ title: My Top 3 learnings from 5 Years at ThoughtWorks
 categories: [Reflection, Personal Growth]
 <> last_modified_at: 2020-03-03
 date: 2020-06-06
-image: ../images/articles/personalgrowth.jp2
+image: ../images/articles/personalgrowth.jpg
 caption: <span>Photo by <a href="https://unsplash.com/@technobulka?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Stanislav Kondratiev</a> on <a href="https://unsplash.com/s/photos/personal-growth?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 ---
 

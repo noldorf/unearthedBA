@@ -4,7 +4,7 @@ title: Inspired <br> by Marty Cagan
 categories: [On my Shelf, Product]
 <> last_modified_at: 2020-03-03
 date: 2020-03-01
-image: ../images/books_quotes/inspried.jp2
+image: ../images/books_quotes/inspried.jpg
 ---
 
 The title delivers what it promises. Many topic are discussed, how successful companies create and release products to their customer.
