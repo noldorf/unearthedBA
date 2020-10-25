@@ -4,7 +4,8 @@ title: How can I prepare for a discussion? (Part 2) - Rhetorical Distraction
 categories: [Communication, Personal Growth]
 <> last_modified_at: 2020-03-03
 date: 2020-07-02
-image: ../images/default.jpg
+image: ../images/articles/opinion_2.jpg
+caption: <span> Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a> </span>
 ---
 
 *This is the second part of the series “How to prepare for a discussion”. The first part about tips I have learnt over the past years on how to prepare for a discussion can be found [here](https://www.unearthedba.com/discussionpart1/). In this second part I want to talk about rhetorical distractions and how to react to them.*

@@ -7,6 +7,9 @@ layout: default
   {% if page.image %}
   <div class="article-pic-box">
     <img class="article-pic" src="{{ page.image }}" alt="" />
+    {% if page.caption %}
+    <p class="caption">{{page.caption}}</p>
+    {% endif %}
   </div>
   {% endif %}
 
