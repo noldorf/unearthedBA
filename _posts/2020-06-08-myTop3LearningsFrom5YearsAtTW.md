@@ -4,6 +4,8 @@ title: My Top 3 learnings from 5 Years at ThoughtWorks
 categories: [Reflection, Personal Growth]
 <> last_modified_at: 2020-03-03
 date: 2020-06-06
+image: ../images/articles/personalgrowth.jpg
+caption: <span>Photo by <a href="https://unsplash.com/@technobulka?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Stanislav Kondratiev</a> on <a href="https://unsplash.com/s/photos/personal-growth?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 ---
 
 In April I had my 5 year anniversary at ThoughtWorks and I think it is now the right time to reflect on what my key learnings are from last years.

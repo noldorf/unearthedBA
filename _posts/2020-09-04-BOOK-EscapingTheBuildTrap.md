@@ -4,7 +4,7 @@ title: Escaping the Build Trap <br> by Melissa Perry
 categories: [On my Shelf, Product]
 <> last_modified_at: 2020-03-03
 date: 2020-09-04
-image: ../images/books_quotes/20200902_131549.jpg
+image: ../images/books_quotes/buildtrap.jpg
 ---
 
 Escaping the Build Trap by Melissa Perry is a wonderful book for all those who want to move towards product management and learn the interplay between the role of product manager, strategy and the analysis process. In addition, there is a chapter on how the organization itself often gets in the way of working product-oriented by living inappropriate processes for budgets and bonuses.

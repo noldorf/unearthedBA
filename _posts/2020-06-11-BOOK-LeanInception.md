@@ -4,7 +4,7 @@ title: Lean Inception <br> by Paulo Caroli
 categories: [On my Shelf, Product]
 <> last_modified_at: 2020-03-03
 date: 2020-03-01
-image: ../images/default.jpg
+image: ../images/books_quotes/leaninc.jpg
 ---
 
 Lean Inception is practically the next step after you decided on what to build next with an existing team or want to start a new product team. It's kind of the step after the process described in "Sprint". As a BA I often help teams to start with a new product or feature. The book shows a nice schedule how to align on different aspects (Business, Design, Tech) in just one weeks and gives also recommendations on methods (e.g. how to create an empathy map) that could be used. I used this process already several times successfully during the last years.
