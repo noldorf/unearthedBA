@@ -4,7 +4,7 @@ title: Invisible Women <br> by Caroline Criado Perez
 categories: [On my Shelf, Gender]
 <> last_modified_at: 2020-03-03
 date: 2020-03-01
-image: ../images/books_quotes/invwomen.jpg
+image: ../images/books_quotes/invwomen.jp2
 ---
 
 This book is eye-opening. Especially as a Product Manager if you want to decide based on data which feature should be implement next this should be a must read just to raise awareness.

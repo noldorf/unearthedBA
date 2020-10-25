@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 title: About
-image: ../images/Profilbild.jpg
+image: ../images/Profilbild.jp2
 ---
 
 ### Hello, my name is Nadine Oldorf!
